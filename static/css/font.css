@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "SourceHanSerifCN-Regular";
+    src: url("http://www.jsc-safe.com/template/default/css/font/SourceHanSerifCN-Regular.woff");
+}
+@font-face {
+    font-family: "SourceHanSansCN-Regular";
+    src: url("../font/SourceHanSansCN-Regular.woff");
+}
+@font-face {
+    font-family: "SourceHanSerifTW-Regular";
+    src: url("../font/SourceHanSerifTW-Regular.woff");
+}
+@font-face {
+    font-family: "SourceHanSansTW-Regular";
+    src: url("http://www.jsc-safe.com/template/default/css/font/SourceHanSansTW-Regular.woff");
+}
